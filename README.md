@@ -1,2 +1,3 @@
 # python-for-everyone-jupyter-notebooks
-Jupyter Notebooks used for Python For Everyone online course
+
+This repository contains all the public Jupyter Notebooks used by the online course **Python For Everyone**.
